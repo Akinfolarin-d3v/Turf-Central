@@ -12,3 +12,4 @@ Frontend: HTML / CSS / JavaScript
 Contributing
 For suggestions or contributions, submit a pull request or open an issue.
 
+<img width="1440" alt="preview" src="https://github.com/user-attachments/assets/eb4bd7f5-4fc1-46da-9fd3-4d6717c3d8f6" />
