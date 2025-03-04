@@ -11,3 +11,4 @@ Frontend: HTML / CSS / JavaScript
 
 Contributing
 For suggestions or contributions, submit a pull request or open an issue.
+
